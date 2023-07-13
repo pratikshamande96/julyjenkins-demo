@@ -12,3 +12,4 @@ changing the file content
  added artifact 
  added global environment variable 
  added global environment variables 
+ added local  variable 
