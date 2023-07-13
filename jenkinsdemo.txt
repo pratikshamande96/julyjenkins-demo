@@ -10,3 +10,4 @@ changing the file content
  this is my nodejs installed 
  my nodejs installed 
  added artifact 
+ added global environment variable 
