@@ -11,3 +11,4 @@ changing the file content
  my nodejs installed 
  added artifact 
  added global environment variable 
+ added global environment variables 
